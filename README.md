@@ -18,7 +18,7 @@
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: flex-start;">
     <!-- This is your GIF above the "Mario coding" image -->
-    <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhjenM5emx6N3EzN201ZjBlcDRhMDd2aGYwemVnNGoyM2JvbzR5dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2A3DG83yvN8uaBiaNR/giphy.gif" alt="Rising Backend Developer GIF" style="width: 15%; height: auto;" />
+    <img align="right" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="width: 15%; height: 15%;" />
     <!-- Mario coding image -->
     <img align="right" alt="Mario coding" width="400" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd">
     <!-- Profile Views image -->
