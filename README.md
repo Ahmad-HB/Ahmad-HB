@@ -1,8 +1,13 @@
 [![MasterHead](https://user-images.githubusercontent.com/97012708/233769558-710dd1c2-75c1-4e35-bf96-7d125a4c25b2.gif)](https://user-images.githubusercontent.com)
-<h1 align="center">Hi 👋, I'm Ahmad</h1>
-<h3 align="center">Rising Backend developer</h3>
-<img align="right" alt="Mario coding" width="400" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd">
+<h1>Hi 👋, I'm Ahmad</h1>
+<h3>💻Rising Backend developer</h3>
+<h2>💫 About Me:</h2>
+<ul>
+    <li>I'm currently working <a href="https://www.b12app.com">@B12</a> </li>
+    <li>Student <a href="https://www.htu.edu.jo/#/">@HTU</a> (AlHussein Technical University)</li>
+</ul>
 
+<img align="right" alt="Mario coding" width="400" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-hb&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-hb" /> </p>
 
 <h3 align="left">Connect with me:</h3>
