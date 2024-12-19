@@ -1,8 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/97012708/233769558-710dd1c2-75c1-4e35-bf96-7d125a4c25b2.gif)](https://user-images.githubusercontent.com)
 <!--[![MasterHead](http://ivis.net/newwebsite/esurvillence/wp-content/uploads/2019/04/footer.gif)](http://ivis.net)-->
-<!--<h1>Hi 👋, I'm Ahmad</h1>
+<!--<h1 style="font:sans-serif;" >Hi 👋, I'm Ahmad</h1>
 <h3>💻Rising Backend developer</h3> -->
-<h1 align="center" > <img src="https://readme-typing-svg.herokuapp.com/?lines=Ahmad;Backend+Engineer;Ahmad&center=true&size=30&color=66f859"></h1>
+<h1 align="center" > <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=66F859&center=true&vCenter=true&width=435&lines=I'm+A7mad;Backend+Engineer;I'm+A7mad;Backend+Engineer;I'm+A7mad;Backend+Engineer;I'm+A7mad;Backend+Engineer"></h1>
 <!-- <h3 align="center">
     <a href="https://linkedin.com/in/www.linkedin.com/in/ahmad-hbahbeh" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
