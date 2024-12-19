@@ -21,9 +21,9 @@
     <!-- This is your GIF above the "Mario coding" image -->
     <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRlY3kwYnQwczZmOTBqa3poN29jdHU4cmUybGU3ZnltejZrb3FmYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2A3DG83yvN8uaBiaNR/giphy.gif" style="width: 15%; height: 15%;" />
     <!-- Mario coding image -->
+    <img align="right" src="https://komarev.com/ghpvc/?username=ahmad-hb&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-hb" /> 
     <img align="right" alt="Mario coding" width="400" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd">
     <!-- Profile Views image -->
-    <img align="right" src="https://komarev.com/ghpvc/?username=ahmad-hb&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-hb" /> 
     <p align="right"> 
 <!--         <img align="right"> src="https://komarev.com/ghpvc/?username=ahmad-hb&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-hb" />  -->
     </p>
