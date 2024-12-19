@@ -23,8 +23,9 @@
     <!-- Mario coding image -->
     <img align="right" alt="Mario coding" width="400" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd">
     <!-- Profile Views image -->
+    <img align="right"> src="https://komarev.com/ghpvc/?username=ahmad-hb&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-hb" /> 
     <p align="right"> 
-        <img src="https://komarev.com/ghpvc/?username=ahmad-hb&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-hb" /> 
+<!--         <img align="right"> src="https://komarev.com/ghpvc/?username=ahmad-hb&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-hb" />  -->
     </p>
 </div>
 
