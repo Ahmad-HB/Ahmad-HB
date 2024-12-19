@@ -28,7 +28,11 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-hb&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 <!--         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-hb&theme=dracula&hide_border=false">
         <img src="https://github-contributor-stats.vercel.app/api?username=ahmad-hb&limit=5&theme=dracula&combine_all_yearly_contributions=true" style="max-width: 100%; width: 450px !important;"> -->
-          <img alt="github-snake" src="https://raw.githubusercontent.com/ahmad-hb/tobiasmeyhoefer/output/github-snake.svg" />
+          <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmad-hb/ahmad-hb/output/github-snake-dark.svg" />
+              <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmad-hb/ahmad-hb/output/github-snake.svg" />
+              <img alt="github-snake" src="https://raw.githubusercontent.com/ahmad-hb/tobiasmeyhoefer/output/github-snake.svg" />
+        </picture>
     </div>
 </div>
 </p>
