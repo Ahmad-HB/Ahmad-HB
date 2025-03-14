@@ -10,7 +10,7 @@
 </h3> -->
 <h2>💫 About Me:</h2>
 <ul>
-    <li>I'm currently working <a href="https://www.b12app.com">@B12</a> </li>
+    <!--<li>I'm currently working <a href="https://www.b12app.com">@B12</a> </li>-->
     <li>Student <a href="https://www.htu.edu.jo/#/">@HTU</a> (AlHussein Technical University)</li>
 </ul>
 
