@@ -39,19 +39,19 @@
 
 <p>
 <div style="display: flex; justify-content: flex-end; align-items: center; gap: 20px; padding-right: 20px;">
-    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Coding GIF 1" style="width: 100px; border-radius: 8px;" />
+     <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Coding GIF 1" style="width: 100px; border-radius: 8px;" />
     <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" alt="Coding GIF 2" style="width: 100px; border-radius: 8px;" />
-    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="Coding GIF 3" style="width: 100px; border-radius: 8px;" />
+    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="Coding GIF 3" style="width: 100px; border-radius: 8px;" /> 
     <div style="display: flex; flex-direction: column; gap: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ahmad-hb&theme=dracula&hide_border=false&include_all_commits=true&count_private=true">
+        <!-- <img src="https://github-readme-stats.vercel.app/api?username=ahmad-hb&theme=dracula&hide_border=false&include_all_commits=true&count_private=true">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-hb&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-<!--         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-hb&theme=dracula&hide_border=false">
-        <img src="https://github-contributor-stats.vercel.app/api?username=ahmad-hb&limit=5&theme=dracula&combine_all_yearly_contributions=true" style="max-width: 100%; width: 450px !important;"> -->
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-hb&theme=dracula&hide_border=false">
+        <img src="https://github-contributor-stats.vercel.app/api?username=ahmad-hb&limit=5&theme=dracula&combine_all_yearly_contributions=true" style="max-width: 100%; width: 450px !important;">
           <picture>
-              <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmad-hb/ahmad-hb/output/github-snake-dark.svg" />
-              <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmad-hb/ahmad-hb/output/github-snake.svg" />
-              <img alt="github-snake" src="https://raw.githubusercontent.com/ahmad-hb/tobiasmeyhoefer/output/github-snake.svg" />
-        </picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmad-hb/ahmad-hb/output/github-snake-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmad-hb/ahmad-hb/output/github-snake.svg" />
+            <img alt="github-snake" src="https://raw.githubusercontent.com/ahmad-hb/tobiasmeyhoefer/output/github-snake.svg" />
+        </picture>-->
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-hb&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
     </div>
 </div>
