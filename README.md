@@ -50,7 +50,7 @@
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmad-hb/ahmad-hb/output/github-snake-dark.svg" />
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmad-hb/ahmad-hb/output/github-snake.svg" />
-            <img alt="github-snake" src="https://raw.githubusercontent.com/ahmad-hb/tobiasmeyhoefer/output/github-snake.svg" />
+            <img alt="github-snake" src="https://raw.githubusercontent.com/ahmad-hb/ahmad-hb/output/github-snake.svg" />
         </picture>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-hb&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
     </div>
