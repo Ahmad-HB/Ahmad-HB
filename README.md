@@ -44,7 +44,6 @@
     <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="Coding GIF 3" style="width: 100px; border-radius: 8px;" /> 
     <div style="display: flex; flex-direction: column; gap: 10px;">
 <!--         <img src="https://github-readme-stats.vercel.app/api?username=ahmad-hb&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"> -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-hb&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
         <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-hb&theme=dracula&hide_border=false">
         <img src="https://github-contributor-stats.vercel.app/api?username=ahmad-hb&limit=5&theme=dracula&combine_all_yearly_contributions=true" style="max-width: 100%; width: 450px !important;"> -->
           <picture>
