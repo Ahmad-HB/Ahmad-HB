@@ -16,7 +16,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/%24-cat%20about.json-282a36?style=for-the-badge&labelColor=bd93f9&logo=gnubash&logoColor=50fa7b" alt="cat about.json" />
+<img src="https://img.shields.io/badge/%24-about%20me-282a36?style=for-the-badge&labelColor=bd93f9&logo=gnubash&logoColor=50fa7b" alt="about me" />
 
 ```jsonc
 {
@@ -33,7 +33,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/%24-ls%20--la%20.%2Fstack%2F-282a36?style=for-the-badge&labelColor=bd93f9&logo=gnubash&logoColor=50fa7b" alt="ls -la stack" />
+<img src="https://img.shields.io/badge/%24-tech%20stack-282a36?style=for-the-badge&labelColor=bd93f9&logo=gnubash&logoColor=50fa7b" alt="tech stack" />
 
 <table align="center" width="100%" style="border:0;">
   <tr>
@@ -88,7 +88,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/%24-tail%20--n%2030%20%2Fvar%2Flog%2Fgithub--activity.log-282a36?style=for-the-badge&labelColor=bd93f9&logo=gnubash&logoColor=50fa7b" alt="tail activity log" />
+<img src="https://img.shields.io/badge/%24-github%20stats-282a36?style=for-the-badge&labelColor=bd93f9&logo=gnubash&logoColor=50fa7b" alt="github stats" />
 
 <div align="center">
 
@@ -111,14 +111,14 @@
 
 ---
 
-<img src="https://img.shields.io/badge/%24-.%2Fconnect-282a36?style=for-the-badge&labelColor=bd93f9&logo=gnubash&logoColor=50fa7b" alt="connect" />
+<img src="https://img.shields.io/badge/%24-connect-282a36?style=for-the-badge&labelColor=bd93f9&logo=gnubash&logoColor=50fa7b" alt="connect" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmad-hbahbeh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   &nbsp;
-  <a href="mailto:what.ev3r.89@gmail.com">
+  <a href="mailto:ahmadhbahbeh2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   &nbsp;
