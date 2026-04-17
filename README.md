@@ -1,67 +1,136 @@
-[![MasterHead](https://user-images.githubusercontent.com/97012708/233769558-710dd1c2-75c1-4e35-bf96-7d125a4c25b2.gif)](https://user-images.githubusercontent.com)
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=66F859&center=true&vCenter=true&width=435&lines=I'm+A7m@d;Backend-Engineer">
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:39D353&height=220&section=header&text=ahmad-hb&fontSize=78&fontColor=E6EDF3&fontAlignY=38&desc=backend.engineer%20%E2%80%94%20%2Fvar%2Flog%2Fahmad&descSize=16&descAlignY=60&descAlign=50&animation=fadeIn" alt="header" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmad-hb&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-hb" />
+<a href="https://github.com/ahmad-hb">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=900&color=39D353&center=true&vCenter=true&width=720&height=44&lines=%24+whoami;%3E+ahmad+hbahbeh+%E2%80%94+backend+engineer;%24+cat+%2Fetc%2Fstatus;%3E+student+%40+HTU+%2F%2F+building+APIs%2C+pipelines%2C+systems;%24+ping+inbox;%3E+always+open+for+collaboration" alt="typing" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ahmad-hb&label=VISITORS&color=39D353&style=for-the-badge&labelColor=0D1117" alt="visitors" />
+<img src="https://img.shields.io/github/followers/ahmad-hb?label=FOLLOWERS&style=for-the-badge&color=39D353&labelColor=0D1117&logo=github&logoColor=E6EDF3" alt="followers" />
+<img src="https://img.shields.io/badge/STATUS-online-39D353?style=for-the-badge&labelColor=0D1117" alt="status" />
+
+</div>
+
+---
+
+### `~/ $ cat about.json`
+
+```jsonc
+{
+  "name":         "Ahmad Hbahbeh",
+  "alias":        "a7m@d",
+  "role":         "Backend Engineer",
+  "affiliation":  "Al-Hussein Technical University (HTU)",
+  "focus":        ["distributed systems", "APIs", "databases", "cloud"],
+  "currently":    "rising backend engineer — shipping & learning in public",
+  "philosophy":   "make it work → make it right → make it fast",
+  "open_to":      ["collaborations", "internships", "open source"]
+}
+```
+
+---
+
+### `~/ $ ls -la ./stack/`
+
+<table align="center" width="100%" style="border:0;">
+  <tr>
+    <td valign="top" width="50%">
+
+**`> languages/`**
+
+<p>
+<img src="https://img.shields.io/badge/Java-EA2D2E?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-## 💫 About Me
+**`> frameworks/`**
 
-- 🎓 Student [@HTU](https://www.htu.edu.jo/#/) (AlHussein Technical University)
-- 💻 Rising Backend Developer
+<p>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
 
-### 🔗 Connect with me
+   </td>
+   <td valign="top" width="50%">
 
-<p align="left">
+**`> databases/`**
+
+<p>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+
+**`> infra & cloud/`**
+
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+   </td>
+  </tr>
+</table>
+
+---
+
+### `~/ $ tail -n 30 /var/log/github-activity.log`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahmad-hb&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=E6EDF3&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ahmad-hb&hide_border=true&background=0D1117&stroke=0D1117&ring=39D353&fire=39D353&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=39D353&sideLabels=39D353&dates=7D8590" height="170" alt="streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-hb&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=E6EDF3&langs_count=8" height="170" alt="top-langs" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-hb&bg_color=0D1117&color=39D353&line=39D353&point=E6EDF3&area=true&hide_border=true&radius=8" alt="activity-graph" width="98%" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmad-hb/ahmad-hb/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmad-hb/ahmad-hb/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ahmad-hb/ahmad-hb/output/github-snake.svg" width="98%" />
+</picture>
+
+</div>
+
+---
+
+### `~/ $ ./connect --protocol=linkedin`
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ahmad-hbahbeh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-@ahmad--hbahbeh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="linkedin" />
+  </a>
+  <a href="mailto:what.ev3r.89@gmail.com">
+    <img src="https://img.shields.io/badge/-send%20mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="email" />
+  </a>
+  <a href="https://github.com/ahmad-hb">
+    <img src="https://img.shields.io/badge/-ahmad--hb-E6EDF3?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0D1117" alt="github" />
   </a>
 </p>
 
-## 🛠️ Languages and Tools
+<br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-</p>
+<div align="center">
+  <sub><code>EOF — thanks for reading. built with caffeine, curl, and commits. ☕</code></sub>
+</div>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmad-hb/ahmad-hb/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmad-hb/ahmad-hb/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ahmad-hb/ahmad-hb/output/github-snake.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-hb&radius=16&theme=dracula&area=true&order=5" alt="activity-graph" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" alt="Coding GIF 1" />
-  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100" alt="Coding GIF 2" />
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100" alt="Coding GIF 3" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,50:161B22,100:0D1117&height=90&section=footer&animation=fadeIn" alt="footer" />
