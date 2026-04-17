@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:39D353&height=220&section=header&text=ahmad-hb&fontSize=78&fontColor=E6EDF3&fontAlignY=38&desc=backend.engineer%20%E2%80%94%20%2Fvar%2Flog%2Fahmad&descSize=16&descAlignY=60&descAlign=50&animation=fadeIn" alt="header" />
+[![MasterHead](https://user-images.githubusercontent.com/97012708/233769558-710dd1c2-75c1-4e35-bf96-7d125a4c25b2.gif)](https://user-images.githubusercontent.com)
 
 <a href="https://github.com/ahmad-hb">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=900&color=39D353&center=true&vCenter=true&width=720&height=44&lines=%24+whoami;%3E+ahmad+hbahbeh+%E2%80%94+backend+engineer;%24+cat+%2Fetc%2Fstatus;%3E+student+%40+HTU+%2F%2F+building+APIs%2C+pipelines%2C+systems;%24+ping+inbox;%3E+always+open+for+collaboration" alt="typing" />
@@ -93,7 +93,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ahmad-hb&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=E6EDF3&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ahmad-hb&hide_border=true&background=0D1117&stroke=0D1117&ring=39D353&fire=39D353&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=39D353&sideLabels=39D353&dates=7D8590" height="170" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=ahmad-hb&hide_border=true&background=0D1117&stroke=0D1117&ring=39D353&fire=39D353&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=39D353&sideLabels=39D353&dates=7D8590" height="170" alt="streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-hb&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=E6EDF3&langs_count=8" height="170" alt="top-langs" />
 
@@ -113,17 +113,19 @@
 
 ---
 
-### `~/ $ ./connect --protocol=linkedin`
+### `~/ $ ./connect`
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmad-hbahbeh/" target="_blank">
-    <img src="https://img.shields.io/badge/-@ahmad--hbahbeh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="linkedin" />
   </a>
+  &nbsp;
   <a href="mailto:what.ev3r.89@gmail.com">
-    <img src="https://img.shields.io/badge/-send%20mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="email" />
   </a>
+  &nbsp;
   <a href="https://github.com/ahmad-hb">
-    <img src="https://img.shields.io/badge/-ahmad--hb-E6EDF3?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0D1117" alt="github" />
+    <img src="https://img.shields.io/badge/GitHub-E6EDF3?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0D1117" alt="github" />
   </a>
 </p>
 
