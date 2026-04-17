@@ -16,7 +16,7 @@
 
 ---
 
-**`~/ $ cat about.json`**
+<img src="https://img.shields.io/badge/%24-cat%20about.json-282a36?style=for-the-badge&labelColor=bd93f9&logo=gnubash&logoColor=50fa7b" alt="cat about.json" />
 
 ```jsonc
 {
@@ -33,7 +33,7 @@
 
 ---
 
-**`~/ $ ls -la ./stack/`**
+<img src="https://img.shields.io/badge/%24-ls%20--la%20.%2Fstack%2F-282a36?style=for-the-badge&labelColor=bd93f9&logo=gnubash&logoColor=50fa7b" alt="ls -la stack" />
 
 <table align="center" width="100%" style="border:0;">
   <tr>
@@ -88,7 +88,7 @@
 
 ---
 
-**`~/ $ tail -n 30 /var/log/github-activity.log`**
+<img src="https://img.shields.io/badge/%24-tail%20--n%2030%20%2Fvar%2Flog%2Fgithub--activity.log-282a36?style=for-the-badge&labelColor=bd93f9&logo=gnubash&logoColor=50fa7b" alt="tail activity log" />
 
 <div align="center">
 
@@ -111,7 +111,7 @@
 
 ---
 
-**`~/ $ ./connect`**
+<img src="https://img.shields.io/badge/%24-.%2Fconnect-282a36?style=for-the-badge&labelColor=bd93f9&logo=gnubash&logoColor=50fa7b" alt="connect" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmad-hbahbeh/" target="_blank">
