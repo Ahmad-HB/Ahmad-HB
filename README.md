@@ -95,8 +95,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ahmad-hb&show_icons=true&theme=dracula&hide_border=true&count_private=true&rank_icon=github" height="170" alt="stats" />
 <img src="https://streak-stats.demolab.com?user=ahmad-hb&theme=dracula&hide_border=true" height="170" alt="streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-hb&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="170" alt="top-langs" />
-
 <br/><br/>
 
 <picture>
@@ -117,15 +115,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmad-hbahbeh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   &nbsp;
   <a href="mailto:what.ev3r.89@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   &nbsp;
   <a href="https://github.com/ahmad-hb">
-    <img src="https://img.shields.io/badge/GitHub-E6EDF3?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0D1117" alt="github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
 </p>
 
