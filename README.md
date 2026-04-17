@@ -1,57 +1,67 @@
 [![MasterHead](https://user-images.githubusercontent.com/97012708/233769558-710dd1c2-75c1-4e35-bf96-7d125a4c25b2.gif)](https://user-images.githubusercontent.com)
-<!--[![MasterHead](http://ivis.net/newwebsite/esurvillence/wp-content/uploads/2019/04/footer.gif)](http://ivis.net)-->
-<!--<h1 style="font:sans-serif;" >Hi 👋, I'm Ahmad</h1>
-<h3>💻Rising Backend developer</h3> -->
-<h1 align="center" > <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=66F859&center=true&vCenter=true&width=435&lines=I'm+A7m@d;Backend-Engineer;I'm+A7m@d;Backend-Engineer;I'm+A7m@d;Backend-Engineer;I'm+A7m@d;Backend-Engineer"></h1>
-<!-- <h3 align="center">
-    <a href="https://linkedin.com/in/www.linkedin.com/in/ahmad-hbahbeh" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-</h3> -->
-<h2>💫 About Me:</h2>
-<ul>
-    <!--<li>I'm currently working <a href="https://www.b12app.com">@B12</a> </li>-->
-    <li>Student <a href="https://www.htu.edu.jo/#/">@HTU</a> (AlHussein Technical University)</li>
-</ul>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=66F859&center=true&vCenter=true&width=435&lines=I'm+A7m@d;Backend-Engineer">
+</h1>
 
-<!--<img align="right" alt="Mario coding" width="400" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-hb&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-hb" /> </p>-->
-
-<h3 align="left" style="margin-top: 10px !important;">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ahmad-hbahbeh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ahmad-hbahbeh" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmad-hb&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-hb" />
 </p>
-<img align="lift" src="https://komarev.com/ghpvc/?username=ahmad-hb&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-hb" />
-<img align="right" alt="Mario coding" width="400" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd">
-<!--<div style="display: flex; flex-direction: column; gap: 20px; align-items: flex-start;">
-    <!--<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula">-->
-    <!-- This is your GIF above the "Mario coding" image -->
-<!--     <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRlY3kwYnQwczZmOTBqa3poN29jdHU4cmUybGU3ZnltejZrb3FmYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2A3DG83yvN8uaBiaNR/giphy.gif" style="width: 15%; height: 15%;" /> -->
-    <!-- Mario coding image -->
-    <!-- Profile Views image -->
-<!--     <p align="right"> 
-         <img align="right" src="https://komarev.com/ghpvc/?username=ahmad-hb&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-hb" />
-    </p>
-</div>-->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p>
-<div style="display: flex; justify-content: flex-end; align-items: center; gap: 20px; padding-right: 20px;">
-     <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Coding GIF 1" style="width: 100px; border-radius: 8px;" />
-    <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" alt="Coding GIF 2" style="width: 100px; border-radius: 8px;" />
-    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="Coding GIF 3" style="width: 100px; border-radius: 8px;" /> 
-    <div style="display: flex; flex-direction: column; gap: 10px;">
-<!--         <img src="https://github-readme-stats.vercel.app/api?username=ahmad-hb&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"> -->
-        <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-hb&theme=dracula&hide_border=false">
-        <img src="https://github-contributor-stats.vercel.app/api?username=ahmad-hb&limit=5&theme=dracula&combine_all_yearly_contributions=true" style="max-width: 100%; width: 450px !important;"> -->
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmad-hb/ahmad-hb/output/github-snake-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmad-hb/ahmad-hb/output/github-snake.svg" />
-            <img alt="github-snake" src="https://raw.githubusercontent.com/ahmad-hb/ahmad-hb/output/github-snake.svg" />
-        </picture>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-hb&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-    </div>
-</div>
+## 💫 About Me
+
+- 🎓 Student [@HTU](https://www.htu.edu.jo/#/) (AlHussein Technical University)
+- 💻 Rising Backend Developer
+
+### 🔗 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmad-hbahbeh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmad-hb/ahmad-hb/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmad-hb/ahmad-hb/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ahmad-hb/ahmad-hb/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-hb&radius=16&theme=dracula&area=true&order=5" alt="activity-graph" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" alt="Coding GIF 1" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100" alt="Coding GIF 2" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100" alt="Coding GIF 3" />
 </p>
