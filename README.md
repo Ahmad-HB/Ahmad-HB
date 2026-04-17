@@ -16,7 +16,7 @@
 
 ---
 
-### `~/ $ cat about.json`
+**`~/ $ cat about.json`**
 
 ```jsonc
 {
@@ -33,7 +33,7 @@
 
 ---
 
-### `~/ $ ls -la ./stack/`
+**`~/ $ ls -la ./stack/`**
 
 <table align="center" width="100%" style="border:0;">
   <tr>
@@ -88,20 +88,16 @@
 
 ---
 
-### `~/ $ tail -n 30 /var/log/github-activity.log`
+**`~/ $ tail -n 30 /var/log/github-activity.log`**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmad-hb&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahmad-hb&show_icons=true&theme=dracula&hide_border=true&count_private=true&rank_icon=github" height="170" alt="stats" />
 <img src="https://streak-stats.demolab.com?user=ahmad-hb&theme=dracula&hide_border=true" height="170" alt="streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-hb&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="170" alt="top-langs" />
 
 <br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-hb&theme=dracula&hide_border=true&radius=16&area=true" alt="activity-graph" width="98%" />
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmad-hb/ahmad-hb/output/github-snake-dark.svg" />
@@ -109,11 +105,15 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/ahmad-hb/ahmad-hb/output/github-snake.svg" width="98%" />
 </picture>
 
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-hb&theme=dracula&hide_border=true&radius=16&area=true" alt="activity-graph" width="98%" />
+
 </div>
 
 ---
 
-### `~/ $ ./connect`
+**`~/ $ ./connect`**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmad-hbahbeh/" target="_blank">
