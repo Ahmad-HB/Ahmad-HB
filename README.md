@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=ahmad-hb&label=VISITORS&color=bd93f9&style=for-the-badge&labelColor=282a36" alt="visitors" />
 <img src="https://img.shields.io/github/followers/ahmad-hb?label=FOLLOWERS&style=for-the-badge&color=bd93f9&labelColor=282a36&logo=github&logoColor=f8f8f2" alt="followers" />
-<img src="https://img.shields.io/badge/STATUS-online-50fa7b?style=for-the-badge&labelColor=282a36" alt="status" />
+<img src="https://img.shields.io/badge/STATUS-online-bd93f9?style=for-the-badge&labelColor=282a36" alt="status" />
 
 </div>
 
@@ -39,7 +39,7 @@
   <tr>
     <td valign="top" width="50%">
 
-**`> languages/`**
+<img src="https://img.shields.io/badge/%3E-languages%2F-282a36?style=for-the-badge&labelColor=ff79c6" alt="languages" />
 
 <p>
 <img src="https://img.shields.io/badge/Java-EA2D2E?style=flat-square&logo=openjdk&logoColor=white" />
@@ -51,7 +51,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-**`> frameworks/`**
+<img src="https://img.shields.io/badge/%3E-frameworks%2F-282a36?style=for-the-badge&labelColor=ff79c6" alt="frameworks" />
 
 <p>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
@@ -63,7 +63,7 @@
    </td>
    <td valign="top" width="50%">
 
-**`> databases/`**
+<img src="https://img.shields.io/badge/%3E-databases%2F-282a36?style=for-the-badge&labelColor=ff79c6" alt="databases" />
 
 <p>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
@@ -71,7 +71,7 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
-**`> infra & cloud/`**
+<img src="https://img.shields.io/badge/%3E-infra%20%26%20cloud%2F-282a36?style=for-the-badge&labelColor=ff79c6" alt="infra and cloud" />
 
 <p>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
