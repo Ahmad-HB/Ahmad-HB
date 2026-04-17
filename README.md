@@ -92,14 +92,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmad-hb&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=E6EDF3&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="stats" />
-<img src="https://streak-stats.demolab.com?user=ahmad-hb&hide_border=true&background=0D1117&stroke=0D1117&ring=39D353&fire=39D353&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=39D353&sideLabels=39D353&dates=7D8590" height="170" alt="streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahmad-hb&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="stats" />
+<img src="https://streak-stats.demolab.com?user=ahmad-hb&theme=dracula&hide_border=true" height="170" alt="streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-hb&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=E6EDF3&langs_count=8" height="170" alt="top-langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-hb&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="170" alt="top-langs" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-hb&bg_color=0D1117&color=39D353&line=39D353&point=E6EDF3&area=true&hide_border=true&radius=8" alt="activity-graph" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-hb&theme=dracula&hide_border=true&radius=16&area=true" alt="activity-graph" width="98%" />
 
 <br/>
 
