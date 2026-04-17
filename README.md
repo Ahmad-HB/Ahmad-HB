@@ -8,9 +8,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ahmad-hb&label=VISITORS&color=39D353&style=for-the-badge&labelColor=0D1117" alt="visitors" />
-<img src="https://img.shields.io/github/followers/ahmad-hb?label=FOLLOWERS&style=for-the-badge&color=39D353&labelColor=0D1117&logo=github&logoColor=E6EDF3" alt="followers" />
-<img src="https://img.shields.io/badge/STATUS-online-39D353?style=for-the-badge&labelColor=0D1117" alt="status" />
+<img src="https://komarev.com/ghpvc/?username=ahmad-hb&label=VISITORS&color=bd93f9&style=for-the-badge&labelColor=282a36" alt="visitors" />
+<img src="https://img.shields.io/github/followers/ahmad-hb?label=FOLLOWERS&style=for-the-badge&color=bd93f9&labelColor=282a36&logo=github&logoColor=f8f8f2" alt="followers" />
+<img src="https://img.shields.io/badge/STATUS-online-50fa7b?style=for-the-badge&labelColor=282a36" alt="status" />
 
 </div>
 
@@ -133,4 +133,4 @@
   <sub><code>EOF — thanks for reading. built with caffeine, curl, and commits. ☕</code></sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,50:161B22,100:0D1117&height=90&section=footer&animation=fadeIn" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,50:ff79c6,100:282a36&height=90&section=footer&animation=fadeIn" alt="footer" />
