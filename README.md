@@ -130,7 +130,7 @@
 <br/>
 
 <div align="center">
-  <sub><code>EOF — thanks for reading. built with caffeine, curl, and commits. ☕</code></sub>
+  <sub><code>thanks for reading. built with caffeine, curl, and commits. ☕</code></sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,50:ff79c6,100:282a36&height=90&section=footer&animation=fadeIn" alt="footer" />
